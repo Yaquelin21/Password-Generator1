@@ -1,7 +1,11 @@
 # Password-Generator1
 
 
+live url -
+http://127.0.0.1:5501/index.html
 
+Github url -
+https://github.com/Yaquelin21/Password-Generator1
 
 User Story
 
